@@ -1,4 +1,4 @@
-ِname: CADRM Level 3 - Build & Push Docker Images
+name: CADRM Level 3 - Build & Push Docker Images
 
 on:
   push:
